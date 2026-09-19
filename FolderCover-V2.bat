@@ -1,6 +1,6 @@
 @echo off
 setlocal EnableExtensions
-title Folder Cover - Drag and Drop V3
+title Folder Cover - Drag and Drop V2
 set "FC_SELF=%~f0"
 
 rem ==================== PENGATURAN (boleh diubah) ====================
@@ -18,7 +18,7 @@ rem ===================================================================
 
 echo.
 echo ==============================================
-echo       FOLDER COVER - DRAG AND DROP  V3
+echo       FOLDER COVER - DRAG AND DROP  V2
 echo ==============================================
 echo.
 
