@@ -2,6 +2,7 @@
 A lightweight Windows utility for creating custom folder icons from images
 
 V2 — Center-crop image mode
+
 V3 — Full-image/Fit mode with improved folder handling and undo functionality
 
 1. Download FolderCover-V3.bat
